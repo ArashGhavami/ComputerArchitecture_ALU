@@ -1,6 +1,6 @@
 # ComputerArchitecture_ALU
 
-This repository contains the practical implementation of a 32-bit ALU (Arithmetic Logic Unit) developed for HW3 of the "Computer Architecture" course (Spring 1403, Dr. Asadi).
+This repository contains the practical implementation of a 32-bit ALU (Arithmetic Logic Unit).
 
 ## Problem Description
 
@@ -62,4 +62,4 @@ A testbench file is provided to validate your implementation.
 ### Run this command to test your circuit:
 
 ```bash
-./synth_valid.sh schematic.circ HW3/tb1.v
+./synth_valid.sh schematic.circ tb.v
